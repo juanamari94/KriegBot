@@ -1,2 +1,3 @@
 # KriegBot
-A very basic bot for a university project.
+
+KriegBot es un proyecto en Java para el Trabajo Práctico final de la materia Inteligencia Artificial en la Universidad de Palermo, en la cual se nos asignó crear un Bot que se pueda manejar a través de un laberinto generado dinámicamente en el cual dos personajes (ambos controlados por un bot) pelean hasta cierta cantidad de vidas hasta que emerja un ganador. Se hizo uso del algoritmo A* para calcular los caminos más cortos y permitir que el Bot se mueva con autonomía.
