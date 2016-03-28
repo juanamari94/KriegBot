@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BattleField-AI"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/workspace/JARs/BattleField-AI.jar" sourcepath="C:/Users/Juan/Downloads/BattleField-AI-master (1).zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
